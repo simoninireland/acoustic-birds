@@ -1,0 +1,8 @@
+* Acoustic birds: an experiment in bird abundance sampling
+
+  This project targets using acoustic sensors to detect and count
+  birds.
+
+  At the moment it makes use of the [[https://github.com/mcguirepr89/BirdNET-Pi/wiki/Installation-Guide][BirdNET-Pi]] interface to BirdNET.
+  It adds a "reporter" component to report observations to a dedicated
+  display.
