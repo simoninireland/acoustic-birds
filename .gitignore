@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.virtual_documents/
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+venv3/
+ENV/
+
+# Emacs backup files
+*.bak
+*~
+\#*\#
+TAGS
+
+# Profiling results
+*.pstats
+
+# Sphinx build docs
+doc/_build/
+
+# doanloaded libraries
+lib/
+
+# configuration files
+*/config.py

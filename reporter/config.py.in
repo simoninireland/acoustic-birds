@@ -1,0 +1,42 @@
+# Configuration details for reporter
+#
+# Copyright (C) 2024 Simon Dobson
+#
+# This file is part of acoustic-birds, an experiment in bird abundance
+# sampling using acoustic sensors
+#
+# This is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This software is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this software. If not, see <http://www.gnu.org/licenses/gpl.html>.
+
+# Fill in the appropriate details and save as reporter/config.py
+
+# ---------- Wireless LAN ----------
+
+wifi_ssid = ""
+wifi_password = ""
+
+
+# ---------- SSD1306 display ----------
+
+oled_width = 128
+oled_height = 64
+oled_lineheight = 12
+
+
+# ---------- MQTT server ----------
+
+mqtt_client = ""
+mqtt_host = ""
+mqtt_topic = ""
+mqtt_username = ""
+mqtt_password = ""
